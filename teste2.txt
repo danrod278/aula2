@@ -3,3 +3,4 @@ escrevi
 =======
 coloquei algo aqui
 >>>>>>> ramo1
+pen pineapple apple pen
